@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Beatriz :)
 
 Estou migrando para uma nova área **profissional**
-- 💻 Iniciando a carreira em programação. Ainda não trabalho na área.
+- 💻 Iniciando a carreira em programação.
 - 🏆 Em busca de novos desafios!
 - 🎓 Atualmente estudo:
 <div style"display: inline">
