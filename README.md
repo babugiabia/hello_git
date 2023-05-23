@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou a Ana Beatriz :)
 
-<!--
-**babugiabia/babugiabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou migrando para uma nova área **profissional**
+- 💻 Iniciando a carreira em programação. Ainda não trabalho na área.
+- 🏆 Em busca de novos desafios!
+- 🎓 Atualmente estudo:
+<div style"display: inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+</div>
 
-Here are some ideas to get you started:
+##
+</div>
+<a href="https://instagram.com/babugiabia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:biababugia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/ana-beatriz-babugia/" target="-blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
