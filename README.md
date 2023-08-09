@@ -7,6 +7,8 @@ Estou migrando para uma nova área **profissional**
 <div style"display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 </div>
 
 ##
